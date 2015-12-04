@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#music_tw">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Twitter messages related to tweets with the #music_tw hashtag</rdfs:comment>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twitter search engine</po:acquiredThrough>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-04T00:38:22.269233</po:triplifiedIn>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:label>Snapshot music_tw</rdfs:label>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/music_tw/master/rdf/music_twMeta.ttl</po:discoveryTTLFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/music_tw</po:availableAt>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015-12-03</po:createdAt>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/music_tw/master/base/</po:originalFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/music_tw/master/rdf/music_twTranslate.owl</po:rdfFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/music_tw/master/rdf/music_twMeta.owl</po:discorveryRDFFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">labMacambira.sf.net</po:donatedBy>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/music_tw/master/rdf/music_twTranslate.ttl</po:ttlFile>
+  </rdf:Description>
+</rdf:RDF>
